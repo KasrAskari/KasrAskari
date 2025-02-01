@@ -1,7 +1,7 @@
 ### Passionate about building intelligent systems that make data meaningful and impactful💡🖥️  
   
 
-- 🌱 I’m currently learning Unsupervised Machine Learning Models  
+- 🔭 I’m currently working on Unsupervised Machine Learning Models  
   
 
 - ❓ Ask me about anything related to AI Research  

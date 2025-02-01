@@ -13,40 +13,30 @@
 
 <br/>  
 
-<div align="center" style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; width: 100%;">
-
-  <!-- Skills Column -->
-  <div style="text-align: center;">
-    <h3>Skills</h3>
-    <a href="https://www.python.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" style="margin: 20px;" title="Python"/></a>
-    <a href="https://www.tensorflow.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" style="margin: 20px;" title="TensorFlow"/></a>
-    <a href="https://pytorch.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" style="margin: 20px;" title="PyTorch"/></a>
-    <a href="https://opencv.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" style="margin: 20px;" title="OpenCV"/></a>
-  </div>
+<div align="center">
+  <!-- Row 1 -->
+  <a href="https://www.python.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" style="margin: 20px;" title="Python"/></a>
+  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" style="margin: 20px;" title="TensorFlow"/></a>
+  <a href="https://github.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" style="margin: 20px;" title="Git"/></a>
+  <a href="https://pytorch.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" style="margin: 20px;" title="PyTorch"/></a>
+  <a href="https://opencv.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" style="margin: 20px;" title="OpenCV"/></a>
+  <br><br>
   
-  <!-- Tools Column -->
-  <div style="text-align: center;">
-    <h3>Tools</h3>
-    <a href="https://github.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" style="margin: 20px;" title="Git"/></a>
-    <a href="https://matplotlib.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" height="50" style="margin: 20px;" title="Matplotlib"/></a>
-    <a href="https://code.visualstudio.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" height="50" style="margin: 20px;" title="VS Code"/></a>
-    <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" height="50" style="margin: 20px;" title="Scikit-Learn"/></a>
-  </div>
+  <!-- Row 2 -->
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" height="50" style="margin: 20px;" title="VS Code"/></a>
+  <a href="https://jupyter.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter Notebook" height="50" style="margin: 20px;" title="Jupyter Notebook"/></a>
+  <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" height="50" style="margin: 20px;" title="Scikit-Learn"/></a>
+  <a href="https://matplotlib.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" height="50" style="margin: 20px;" title="Matplotlib"/></a>
+  <br><br>
 
-  <!-- Libraries Column -->
-  <div style="text-align: center;">
-    <h3>Libraries</h3>
-    <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-wide-lightbg.svg" alt="Seaborn" height="50" style="margin: 20px;" title="Seaborn"/></a>
-    <a href="https://numpy.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" height="50" style="margin: 20px;" title="NumPy"/></a>
-    <a href="https://pandas.pydata.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" height="50" style="margin: 20px;" title="Pandas"/></a>
-    <a href="https://jupyter.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter Notebook" height="50" style="margin: 20px;" title="Jupyter Notebook"/></a>
-  </div>
-
+  <!-- Row 3 -->
+  <a href="https://numpy.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" height="50" style="margin: 20px;" title="NumPy"/></a>
+  <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-wide-lightbg.svg" alt="Seaborn" height="50" style="margin: 20px;" title="Seaborn"/></a>
+  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" height="50" style="margin: 20px;" title="Pandas"/></a>
 </div>
 
 
-
-
+</div>
 
 
 <br/>  

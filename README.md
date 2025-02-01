@@ -1,5 +1,5 @@
 ### 👋 Hi, I'm Kasra  
-### Passionate about building intelligent systems that make data meaningful and impactful🖥️💡  
+### Passionate about building intelligent systems that make data meaningful and impactful💡🖥️  
   
 
 - 🌱 I’m currently learning Unsupervised Machine Learning Models  

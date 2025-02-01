@@ -27,14 +27,10 @@
   <a href="https://pandas.pydata.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" height="50" style="margin: 20px;" title="Pandas"/></a>
   
   <!-- Row3 -->
-  <a href="https://matplotlib.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" height="50" style="margin: 20px;" title="Matplotlib"/></a>
-  <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-wide-lightbg.svg" alt="Seaborn" height="50" style="margin: 20px;" title="Seaborn"/></a>
   <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" height="50" style="margin: 20px;" title="Scikit-Learn"/></a>
+  <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-wide-lightbg.svg" alt="Seaborn" height="50" style="margin: 20px;" title="Seaborn"/></a>
+  <a href="https://matplotlib.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" height="50" style="margin: 20px;" title="Matplotlib"/></a>
 </div>
-
-
-</div>
-
 
 <br/>  
 

@@ -39,7 +39,7 @@
 <a href="https://github.com/KasrAskari" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://open.spotify.com/user/[KasrAskari](https://open.spotify.com/user/31laounrqu7tebhb4jmvt4pk3pxi?si=2724b8cb7a4f4999)" target="_blank">
+<a href="https://open.spotify.com/user/31laounrqu7tebhb4jmvt4pk3pxi" target="_blank">
 <img src="https://img.shields.io/badge/spotify-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" style="margin-bottom: 5px;" />
 </a>
 <a href="https://gitlab.com/KasrAskari" target="_blank">

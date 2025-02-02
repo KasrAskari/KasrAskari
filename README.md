@@ -1,6 +1,5 @@
 ### Passionate about building intelligent systems that make data meaningful and impactful💡🖥️  
 
-- 📫 Feel free to reach out via email: <a href="mailto:kasra.askarizadeh2000@gmail.com">kasra.askarizadeh2000@gmail.com</a>  
 
 - 🔭 I’m currently working on Unsupervised Machine Learning Models  
   

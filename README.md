@@ -5,9 +5,13 @@
   
 
 - ❓ Ask me about anything related to AI Research  
-  
 
-- ⚡ Fun fact: I use tabs over spaces  
+
+- 📫 <a href="mailto:kasra.askarizadeh2000@gmail.com">kasra.askarizadeh2000@gmail.com</a>
+ 
+
+- ⚡ Fun fact: I use tabs over spaces 
+
 
 
 <br/>  

@@ -1,7 +1,9 @@
 ### Passionate about building intelligent systems that make data meaningful and impactful💡🖥️  
 
 
-- 🔭 I’m currently working on Natural language processing (NLP) Models  
+- 🔭 I’m currently working on Natural Language Processing (NLP) Models
+
+- 🌱 I’m currently learning R Programming Language
   
 
 - ❓ Ask me about anything related to AI Research  

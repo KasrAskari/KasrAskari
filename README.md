@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on *Natural Language Processing (NLP)* Models
 
 
-- 🌱 I’m currently learning *Deep Learning*
+- 🌱 I’m currently learning *Neural Networks & Deep Learning*
   
 
 - ❓ Ask me about anything related to AI Research  

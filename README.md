@@ -1,18 +1,14 @@
 ### Passionate about building intelligent systems that make data meaningful and impactful💡🖥️  
 
--  🔭 I’m currently working on *Artificial Neural Network (ANN)* Models
+-  🔭 I’m currently working on *Convolutional Neural Network (CNN)* Models
 
 - 🌱 I’m currently learning *Neural Networks & Deep Learning*
   
-
 - ❓ Ask me about anything related to AI Research  
-
 
 - 📫 <a href="mailto:kasra.askarizadeh2000@gmail.com">kasra.askarizadeh2000@gmail.com</a>
  
-
 - ⚡ Fun fact: I use tabs over spaces 
-
 
 
 <br/>  

@@ -45,7 +45,7 @@
 <a href="https://open.spotify.com/user/31laounrqu7tebhb4jmvt4pk3pxi" target="_blank">
 <img src="https://img.shields.io/badge/spotify-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" style="margin-bottom: 5px;" /></a>
 <a href="https://gitlab.com/KasrAskari" target="_blank">
-<img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" /></a>
+<!-- <img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" /></a> -->
 <!-- <a href="https://www.kaggle.com/kasraskari" target="_blank">
 <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" /></a>  
 </div> -->

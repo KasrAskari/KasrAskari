@@ -6,7 +6,7 @@
   
 - ❓ Ask me about anything related to AI Research  
 
-- 📫 <a href="mailto:kasra.askarizadeh2000@gmail.com">kasra.askarizadeh2000@gmail.com</a>
+- 📫 <a href="mailto:kasra.askari.ai@gmail.com">kasra.askari.ai@gmail.com</a>
  
 - ⚡ Fun fact: I use tabs over spaces 
 

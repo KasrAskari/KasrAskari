@@ -1,6 +1,6 @@
 ### Passionate about building intelligent systems that make data meaningful and impactful💡🖥️  
 
--  🔭 I’m currently working on *Convolutional Neural Network (CNN)* Models
+-  🔭 I’m currently working on *Macular Degeneration Research* 
 
 - 🌱 I’m currently learning *Neural Networks & Deep Learning*
   

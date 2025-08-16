@@ -2,7 +2,7 @@
 
 -  🔬 I’m currently working on *Macular Degeneration Research* 
 
-- 🌱 I’m currently learning *Neural Networks & Deep Learning*
+<!-- 🌱 I’m currently learning *Neural Networks & Deep Learning*-->
   
 - ❓ Ask me about anything related to *AI Research*  
 

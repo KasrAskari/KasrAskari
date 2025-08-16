@@ -1,6 +1,6 @@
 ### Passionate about building intelligent systems that make data meaningful and impactful💡🖥️  
 
-- 🔬 I’m currently working on *Age-Related Macular Degeneration (AMD)* Research
+- 🔬 I’m currently researching on *Age-Related Macular Degeneration (AMD)*
 
 - 🌱 I’m currently learning *Neural Networks & Deep Learning*
   

@@ -4,7 +4,7 @@
 <!--
 - 🌱 I’m currently learning *Neural Networks & Deep Learning*
   -->
-- ❓ Ask me about anything related to *AI Research*  
+- ❓ Ask me about anything related to *ML and DL*  
 
 - ⚡ Fun fact: I use tabs over spaces 
  

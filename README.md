@@ -6,7 +6,7 @@
   -->
 - ❓ Ask me about anything related to *ML* and *DL*  
 
-- ⚡ Fun fact: I use tabs over spaces 
+- ⚡ Fun fact: I use TABs over SPACEs 
  
 - 📫 <a href="mailto:kasra.askari.ai@gmail.com">kasra.askari.ai@gmail.com</a>
 

@@ -1,12 +1,12 @@
 ### Passionate about building intelligent systems that make data meaningful and impactful💡🖥️  
 
-- 🔬 I’m currently researching on *Age-Related Macular Degeneration (AMD)*
+- 🔬 I’m currently researching on ***Age-Related Macular Degeneration (AMD)***
 <!--
 - 🌱 I’m currently learning *Neural Networks & Deep Learning*
   -->
-- ❓ Ask me about anything related to *ML* and *DL*  
+- ❓ Ask me about anything related to **ML** and **DL**  
 
-- ⚡ Fun fact: I use TABs over SPACEs 
+- ⚡ Fun fact: I use **TABs** over **SPACEs**
  
 - 📫 <a href="mailto:kasra.askari.ai@gmail.com">kasra.askari.ai@gmail.com</a>
 

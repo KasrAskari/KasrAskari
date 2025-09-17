@@ -1,4 +1,4 @@
-### Passionate about building intelligent systems that make data meaningful and impactful💡🖥️  
+### Passionate about building Intelligent Systems that make Data Meaningful and Impactful💡🖥️  
 
 - 🔬 I’m currently researching on ***Age-Related Macular Degeneration (AMD)***
 <!--
